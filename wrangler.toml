@@ -1,3 +1,6 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2026-11-11"
+[vars]
+ALLOWED_DOMAINS = "costanzapadova.com"
+GITHUB_CLIENT_ID = "Ov23li86yaOt9QbcTvFc"
